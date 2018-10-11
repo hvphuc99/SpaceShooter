@@ -1,5 +1,0 @@
-void Start () {
-		var worldHeight = Camera.main.orthographicSize * 2; //Lay kich thuoc camera
-		var worldWidth = worldHeight * Screen.width / Screen.height; //Cong thuc tinh chieu rong dua vao chieu rong + chieu cao man hinh
-		transform.localScale = new Vector3 (worldWidth, worldHeight, 0);
-	}
