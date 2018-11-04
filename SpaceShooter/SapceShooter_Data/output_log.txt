@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Game\SpaceShooter\SapceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Game\SpaceShooter\SapceShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.358 seconds
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Game\SpaceShooter\SapceShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.224800 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.692300 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 396.
+Total: 0.942900 ms (FindLiveObjects: 0.084100 ms CreateObjectMapping: 0.098300 ms MarkObjects: 0.691700 ms  DeleteObjects: 0.066900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.760800 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 396.
+Total: 0.356200 ms (FindLiveObjects: 0.027300 ms CreateObjectMapping: 0.023700 ms MarkObjects: 0.290100 ms  DeleteObjects: 0.014100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.212800 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 0.626700 ms (FindLiveObjects: 0.029200 ms CreateObjectMapping: 0.027200 ms MarkObjects: 0.242800 ms  DeleteObjects: 0.326200 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 287c -> priority: 1 
+  Thread -> id: 2e54 -> priority: 1 
